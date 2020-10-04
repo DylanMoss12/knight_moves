@@ -1,0 +1,1 @@
+For this project, I will creating an algorithm that shows the simplest possible way to get from one sqaure to another by outputting all squares the knights will stop along the way.
